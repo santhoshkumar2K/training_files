@@ -1,0 +1,2 @@
+To make a program, a programmer writes commands in their chosen programming language and saves the commands to a text file. This text file is called source code. Some programming languages, such as Python and JavaScript, can be read by the computer right away. 
+
